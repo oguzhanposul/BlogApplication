@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Blog>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<div class="container">
+
+    <div class="row mt-3">
+
+        <div class="col-md-3">
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action active">
+                    Cras justo odio
+                </a>
+                <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
+                <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
+                <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
+                <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">Vestibulum at eros</a>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            @foreach (var item in Model)
+            {
+
+                <div class="card mb-2">
+                    <div class="card-header">
+                        @item.Title
+                    </div>
+                    <img src="~/img/@item.Image" class="card-img-top" alt="...">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Description </p>
+                        <a asp-controller="Home"
+                           asp-action="Details"
+                           asp-route-id="@item.BlogId"
+                           class="btn btn-primary">Details</a>
+                    </div>
+                </div>
+            }
+        </div>
+
+
+        </div>
+
+</div>

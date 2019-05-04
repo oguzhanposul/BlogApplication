@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container">
+
+    <div class="row mt-3">
+        <div class="col-md-3">
+            @await Component.InvokeAsync("CategoryMenu")
+        </div>
+        <div class="col-md-9">
+
+            @Html.Partial("_BlogList", Model)
+
+        </div>
+    </div>
+
+</div>

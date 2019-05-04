@@ -1,0 +1,16 @@
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.deps.json
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.dll
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.AssemblyInfo.cs
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.pdb
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Entity.dll
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Entity.pdb
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csproj.CopyComplete
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.dll
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.pdb
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\oguz-\Desktop\Genel\Udemy.ASP.NET.CORE\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
